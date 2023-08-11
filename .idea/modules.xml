@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Age_Calculator_Bangla.iml" filepath="$PROJECT_DIR$/.idea/modules/Age_Calculator_Bangla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Age_Calculator_Bangla.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
