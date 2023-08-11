@@ -1,8 +1,8 @@
 <resources>
 
     <!-- app name -->
-    <string name="app_name">Tips and Tricks</string>
-    <string name="tagline">The Awesome StoryBook App!</string>
+    <string name="app_name">বয়স ক্যালকুলেটর</string>
+    <string name="tagline">The Awesome Age Calulator App!</string>
 
     <!-- app ad section -->
     <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>

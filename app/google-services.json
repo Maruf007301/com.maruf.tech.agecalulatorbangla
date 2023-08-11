@@ -1,39 +1,118 @@
 {
   "project_info": {
-    "project_number": "301095573464",
-    "firebase_url": "https://everydayshopping-4f97f.firebaseio.com",
-    "project_id": "everydayshopping-4f97f",
-    "storage_bucket": "everydayshopping-4f97f.appspot.com"
+    "project_number": "453143294355",
+    "project_id": "fatistudio-2023",
+    "storage_bucket": "fatistudio-2023.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:301095573464:android:cafbde386c5719f8",
+        "mobilesdk_app_id": "1:453143294355:android:98d28814165b444012b866",
         "android_client_info": {
-          "package_name": "com.ruetgmail.taufiqur.tipsntricks"
+          "package_name": "com.maruf.tech.agecalulatorbangla"
         }
       },
       "oauth_client": [
         {
-          "client_id": "301095573464-vri1ff2ke85rohkhfi651v8pftgqkq38.apps.googleusercontent.com",
+          "client_id": "453143294355-iffjm9fbmtn8jl4jpcpg98absck07t0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maruf.tech.agecalulatorbangla",
+            "certificate_hash": "2145dfc06ac8c0adc4ffaa6ecd48729a086351c7"
+          }
+        },
+        {
+          "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA3kEA2avcAHF8MNXJx4ThQpn5eQTZJG5I"
+          "current_key": "AIzaSyBeO6OK-zRLfVZch5jyVucrPGj98PROLos"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453143294355:android:05755a011f92387512b866",
+        "android_client_info": {
+          "package_name": "com.maruf.tech.bcsquestionbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453143294355-l8n5d6i1iui02mu0t9ql0du4q357th26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maruf.tech.bcsquestionbank",
+            "certificate_hash": "2145dfc06ac8c0adc4ffaa6ecd48729a086351c7"
+          }
         },
-        "ads_service": {
-          "status": 2
+        {
+          "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeO6OK-zRLfVZch5jyVucrPGj98PROLos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453143294355:android:366539d44a239dcc12b866",
+        "android_client_info": {
+          "package_name": "com.maruf.tech.motivationquotesstatussaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453143294355-rfk9l88ossqa5ks09ec0hhe4cq4r72o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maruf.tech.motivationquotesstatussaying",
+            "certificate_hash": "2145dfc06ac8c0adc4ffaa6ecd48729a086351c7"
+          }
+        },
+        {
+          "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeO6OK-zRLfVZch5jyVucrPGj98PROLos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453143294355-7ku6ppoqkurvol5kqh6cnavned5u74g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

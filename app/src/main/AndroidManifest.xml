@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ruetgmail.taufiqur.tipsntricks">
+    package="com.maruf.tech.agecalulatorbangla">
 
     <!-- network permissions -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -13,7 +13,7 @@
 
 
     <application
-        android:name="com.ruetgmail.taufiqur.tipsntricks.app.MyApplication"
+        android:name="com.maruf.tech.agecalulatorbangla.app.MyApplication"
         android:allowBackup="false"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
@@ -27,7 +27,7 @@
             android:value="@string/app_ad_id" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.SplashActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.SplashActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
@@ -42,49 +42,49 @@
 
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.MainActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.MainActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.SettingsActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.SettingsActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.CustomUrlActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.CustomUrlActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.NotificationListActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.NotificationListActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.NotificationDetailsActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.NotificationDetailsActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.DetailsActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.DetailsActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/DetailsActivityTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.AboutDevActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.AboutDevActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.FavoriteListActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.FavoriteListActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.ruetgmail.taufiqur.tipsntricks.activity.SearchActivity"
+            android:name="com.maruf.tech.agecalulatorbangla.activity.SearchActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:theme="@style/AppTheme">
             <meta-data
@@ -93,7 +93,7 @@
         </activity>
 
 
-        <service android:name="com.ruetgmail.taufiqur.tipsntricks.notification.MyFirebaseMessagingService">
+        <service android:name="com.maruf.tech.agecalulatorbangla.notification.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
