@@ -2,35 +2,35 @@
 
     <!-- app name -->
     <string name="app_name">বয়স ক্যালকুলেটর</string>
-    <string name="tagline">The Awesome Age Calulator App!</string>
+    <string name="tagline">The Awesome Age Calculator App!</string>
 
     <!-- app ad section -->
-    <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_ad_id">ca-app-pub-5484472268341859~9186397010</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5484472268341859/7280103180</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5484472268341859/2995559034</string>
     <!-- end of the ad section -->
 
 
     <!-- app social site links section -->
-    <string name="facebook_url">https://www.facebook.com/helpfulappsbd/</string>
-    <string name="youtube_url">https://www.youtube.com/channel/UCqpLWjZUbFca3ULvpiRuLcw</string>
-    <string name="twitter_user_id">twitter://user?user_id=716462892967538689</string> <!-- find your user id from here: http://gettwitterid.com/  -->
-    <string name="twitter_url">https://twitter.com/taufiqur59</string>
-    <string name="google_plus_url">https://plus.google.com/+TAUFIQURRAHMANNISHAT</string>
+    <string name="facebook_url">https://www.facebook.com/  </string>
+    <string name="youtube_url">https://www.youtube.com/channel/ </string>
+    <string name="twitter_user_id">twitter://user?user_id= </string> <!-- find your user id from here: http://gettwitterid.com/  -->
+    <string name="twitter_url">https://twitter.com/ </string>
+    <string name="google_plus_url">https://plus.google.com/ </string>
 
     <!-- terms and conditions, privacy policy and faq url -->
-    <string name="terms_url">https://docs.google.com/document/d/1-UJjnUSd6f82gNvwZznTDiDSYfnHX2fYQpjpmBG_RNg/edit?usp=sharing</string>
-    <string name="privacy_url">https://docs.google.com/document/d/1pfm5xgtbXW4Twxbh_8Q_3-75QoO5KySZkysli3zE0gI/edit?usp=sharing</string>
-    <string name="faq_url">https://docs.google.com/document/d/122500Gtso7Fj3VhMB5TNKaELZrfR95urBNJczI63DFQ/edit?usp=sharing</string>
+    <string name="terms_url">https://docs.google.com/document/d/ </string>
+    <string name="privacy_url">https://docs.google.com/document/d/ </string>
+    <string name="faq_url">https://docs.google.com/document/d/ </string>
 
     <!-- about developer text  -->
-    <string name="developer_name">Taufiqur Rahman Nishat</string>
+    <string name="developer_name">Maruf</string>
     <string name="developer_detail">Entrepreneur, Bangladesh</string>
     <string name="developer_message">If you like this app, please give it a good rating, share with friends and show your support to us.</string>
 
     <!-- developer page: replace the developer id by yours -->
-    <string name="developer_page">market://dev?id=9082460539100844090</string>
-    <string name="alternate_dev_page">https://play.google.com/store/apps/dev?id=9082460539100844090</string>
+    <string name="developer_page">market://dev?id= </string>
+    <string name="alternate_dev_page">https://play.google.com/store/apps/dev?id= </string>
 
 
     <string name="site_menu_fav">Favorites</string>

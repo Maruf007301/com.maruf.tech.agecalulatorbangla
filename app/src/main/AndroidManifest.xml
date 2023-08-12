@@ -11,6 +11,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
+    <!-- add koreci -->
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
 
     <application
         android:name="com.maruf.tech.agecalulatorbangla.app.MyApplication"
@@ -27,6 +29,7 @@
             android:value="@string/app_ad_id" />
 
         <activity
+            android:exported="true"
             android:name="com.maruf.tech.agecalulatorbangla.activity.SplashActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name"
@@ -93,7 +96,9 @@
         </activity>
 
 
-        <service android:name="com.maruf.tech.agecalulatorbangla.notification.MyFirebaseMessagingService">
+        <service
+            android:exported="true"
+            android:name="com.maruf.tech.agecalulatorbangla.notification.MyFirebaseMessagingService">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>

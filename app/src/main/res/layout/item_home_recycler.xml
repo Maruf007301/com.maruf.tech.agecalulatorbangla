@@ -22,7 +22,7 @@
             android:id="@+id/post_img"
             android:layout_width="@dimen/margin_120dp"
             android:layout_height="@dimen/margin_120dp"
-            android:background="@color/light_gray"
+            android:background="@drawable/ic_dev"
             android:contentDescription="@string/app_name"
             android:scaleType="centerCrop" />
 
